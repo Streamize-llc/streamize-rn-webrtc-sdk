@@ -143,5 +143,9 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "events": "^3.3.0",
+    "react-native-webrtc": "^1.89.1"
   }
 }
